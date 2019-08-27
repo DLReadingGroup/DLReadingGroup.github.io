@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-theme: jekyll-theme-minimal
-title: WPI Deep Learning Reading Group
-
-gems:
-    - jekyll-sitemap
-=======
 title: Hello, world! I'm David Freeman
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -42,4 +35,3 @@ paginate: 8
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
->>>>>>> dc74f062fa4fe5dfe50665e426cc31d25832f6dd
