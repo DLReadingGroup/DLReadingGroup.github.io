@@ -8,4 +8,4 @@ fig-caption: Recurrent Attention Model Architecture
 tags: [Reinforcement Learning, Image Classification]
 ---
 
-Test
+**Presenter: Tom Hartvigsen**. [pdf](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf).
