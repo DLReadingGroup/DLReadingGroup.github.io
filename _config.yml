@@ -7,9 +7,9 @@ url: "dlreadinggroup.github.io" # the base hostname & protocol for your site, e.
 #site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Tom Hartvigsen # add your name
+author: WPI Deep Learning Reading Group
 author-img: WPI_logo.png
-about-author: WPI Data Science PhD Candidate
+about-author: A collection of upcoming and previous papers to be discussed and presented at our weekly meetings.
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: thartvigsen # add your Github handle
