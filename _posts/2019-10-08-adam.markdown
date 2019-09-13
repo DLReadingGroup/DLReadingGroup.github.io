@@ -1,0 +1,11 @@
+---
+layout: post
+title: Adam. A Method for Stochastic Optimization
+date: 2019-10-08 11:00:00
+img: adam.png
+fig-caption: ADAM.
+tags: [Optimization]
+---
+
+**Presenter: Luke Buquicchio**.
+[paper link](https://arxiv.org/pdf/1412.6980.pdf).
