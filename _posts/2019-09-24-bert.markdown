@@ -1,0 +1,11 @@
+---
+layout: post
+title: BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding
+date: 2019-09-24 11:00
+img: bert.png
+fig-caption: BERT
+tags: [Natural Language Processing]
+---
+
+**Presenter: Cansu Sen**.
+[paper link](https://arxiv.org/pdf/1810.04805.pdf).
